@@ -1,5 +1,5 @@
-# JY.HXGF.IO
+# JYOUNGBLOOD.PHOTOGRAPHY
 
-- Source files for [jy.hxgf.io](https://jy.hxgf.io)
+- Source files for [jyoungblood.photography](https://jyoungblood.photography)
 
 - Created with [hxgf/scratch](https://github.com/hxgf/scratch)
